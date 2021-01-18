@@ -57,4 +57,4 @@ async def on_message(message): # on_message event (gets triggered when message g
 	if(".flood" in message.content): # check if .flood is in the message
 		await parseflood(message.content, message) # call parse flood function await it because async
 
-client.run("NzY3Mzc5MzkzMjI3NjUzMTIx.X4xDwA.m5aLTB2W-Eqgfm80AYwMr8yv9CE")
+client.run("")
